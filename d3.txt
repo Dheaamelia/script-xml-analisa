@@ -1,0 +1,30 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?> 
+<logbarang> 
+<barang>  
+	<kode>L111</kode>  
+	<satuan>pc</satuan>  
+	<harga>5000</harga>  
+	<asal>   
+		<pt>berkahjaya</pt>   
+		<kodewil>10</kodewil>  
+	</asal>  
+	<tujuan>   
+		<pt>sukajaya</pt>   
+		<kodewil>101</kodewil>  
+	</tujuan> 
+</barang>  
+ 
+<barang>  
+	<kode>L112</kode>  
+	<satuan>pc</satuan>  
+	<harga>10000</harga>  
+	<asal>   
+		<pt>bks</pt>   
+		<kodewil>102</kodewil>  
+	</asal>  
+	<tujuan>   
+		<pt>maju terus</pt>   
+		<kodewil>300</kodewil>  
+	</tujuan> 
+</barang>  
+</logbarang> 
